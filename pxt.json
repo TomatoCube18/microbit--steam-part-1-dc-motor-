@@ -1,0 +1,26 @@
+{
+    "name": "Microbit ( STEAM Part 1: DC Motor )",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "DrawBridge-Motor": "github:TomatoCube18/pxt-drawbridge-motor#3b7ebcad7814920d30e2ffb4070250f450194e18"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.8",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
